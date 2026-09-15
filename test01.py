@@ -8,3 +8,5 @@ num02 = 20
 
 print(addNum(num01, num02))
 print("Program was  end!")
+print("Bye")
+print("main 브런치에서 라인 추가하고 새로운 커밋 생성")
